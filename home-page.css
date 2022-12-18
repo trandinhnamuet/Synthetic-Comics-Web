@@ -1,0 +1,47 @@
+p {
+    background-color: inherit;
+}
+
+nav {
+    text-align: center;
+    margin: 50px;
+}
+
+nav form input {
+    height: 60px;
+    width: 1000px;
+    background-color: darkgray;
+    font-size: 25px;
+}
+
+nav form button {
+    height: 60px;
+    width: 100px;
+    background-color: rgb(179, 10, 10);
+    font-size: 20px;
+}
+
+nav form button:hover{
+    height: 60px;
+    width: 100px;
+    background-color: rgb(226, 12, 12);
+}
+
+.buffer {
+    background-color: inherit;
+    border: none;
+}
+
+.avatar {
+    width: 100%;
+}
+
+.col-3 {
+    text-decoration: none;
+    text-align: center;
+}
+
+.comicName {
+    background-color: inherit;
+    color: rgb(71, 69, 69);
+}
