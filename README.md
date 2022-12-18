@@ -1,4 +1,4 @@
-# Proect-Alpha---Simple-Custom-Comic-Web
+# Synthetic-Comics-Web
 
 *Open CMD and run code below
 
